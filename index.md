@@ -5,7 +5,7 @@ menutitle: Home
 menuorder: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I completed my MS in Computer Science at the University of Minnesota, prior to that I obtained bachelors in Math and in Computer Science and Engineering from the Ohio State University. My research focus was primarily Computational Geometry and Applied Algebraic Topology/Topological Data Analysis.
 
 ## Current Interests and Projects:
 
